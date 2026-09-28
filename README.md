@@ -3,7 +3,7 @@
 **Free online tools and honest tech reviews.** This is where the software behind them lives.
 
 [![Website](https://img.shields.io/badge/anupress.com-0F1B2D?style=flat&logo=googlechrome&logoColor=white)](https://anupress.com)
-[![Tools](https://img.shields.io/badge/48+_free_tools-2563EB?style=flat)](https://anupress.com/tools/)
+[![Tools](https://img.shields.io/badge/80+_free_tools-2563EB?style=flat)](https://anupress.com/tools/)
 [![Reviews](https://img.shields.io/badge/hands--on_reviews-16A34A?style=flat)](https://anupress.com/product-review/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@anupress_tech)
 
@@ -11,7 +11,7 @@
 
 ## About Us
 
-ANUPRESS is an independent site with honest reviews of hosting, finance products and tech, plus 48+
+ANUPRESS is an independent site with honest reviews of hosting, finance products and tech, plus 80+
 free calculators and converters that run entirely in your browser.
 
 We're a small team spread across different countries. Not one person, and not a large company. We
@@ -75,7 +75,7 @@ or a list of URLs, instead of dragging them in a few dozen at a time and waiting
 
 | | |
 |---|---|
-| **[Tools](https://anupress.com/tools/)** | 48+ calculators and converters covering finance, hosting and development, data and text, and maths. They all run in your browser. |
+| **[Tools](https://anupress.com/tools/)** | 80+ calculators and converters covering finance, hosting and development, data and text, and maths. They all run in your browser. |
 | **[Reviews](https://anupress.com/product-review/)** | Web hosting, financial products, WordPress themes and plugins, security and privacy tools. |
 | **[News](https://anupress.com/news/)** | Tutorials and write-ups on the things above. |
 
