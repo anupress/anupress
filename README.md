@@ -62,6 +62,10 @@ Try it without installing anything: [live demo](https://anupress.github.io/grist
 · [the complete guide](https://anupress.com/advanced-charts-grist-widget-guide/)
 · [template library](https://anupress.com/grist-dashboard-templates/)
 
+### [Invoice Studio](https://github.com/anupress/grist-invoice-studio)
+
+Invoices, quotes, receipts, credit notes and e-invoices (XRechnung, Factur-X, UBL) from the Grist tables you already keep. PDF, payment QR codes, 8 languages. Runs in the browser, no server. [The guide](https://anupress.com/grist-invoice-widget/)
+
 ### [WP Bulk Media Uploader](https://github.com/anupress/wp-bulk-media-uploader)
 
 A free WordPress plugin for pushing 1,000+ images into the Media Library from a CSV, a ZIP archive
